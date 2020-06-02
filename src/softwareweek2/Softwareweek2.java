@@ -17,6 +17,7 @@ public class Softwareweek2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Software fundamental");
+         System.out.println("hello");
     }
     
 }
